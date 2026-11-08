@@ -1,0 +1,5 @@
+.DS_Store
+HANDOFF.json
+# Third-party full-text copies kept local only (not redistributed in the public repo)
+sources/
+review/*.txt
